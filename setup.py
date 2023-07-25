@@ -18,6 +18,7 @@ setup(
        'onnxruntime-gpu',
        'PyQt5',
        'gradio',
-       'matplotlib'
+       'matplotlib',
+       'PySoundFile',
    ],
 )
