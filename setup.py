@@ -6,7 +6,7 @@ setup(
    description='audio demixer',
    author='Et al.',
    author_email='none',
-   packages=['mdx23'],
+   packages=find_packages(),
    install_requires=[
        'numpy',
        'soundfile',
